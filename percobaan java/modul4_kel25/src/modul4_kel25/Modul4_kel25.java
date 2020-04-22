@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package modul4_kel25;
-
-/**
- *
- * @author asusid
- */
 public class Modul4_kel25 {
     // non-return type dengan parameter
     static void cetak(String kelompok){  
@@ -29,7 +19,7 @@ public class Modul4_kel25 {
 
     public static void main(String[] args) {
 //        //penggunaan function non-return type dengan megisikan argument untuk parameter kelompok
-//        cetak("Kelompok XX");
+//        cetak("Kelompok 25");
 //        //penggunaan function non-return type tanpa parameter
 //        cetak1(); 
 //        //penggunaan function return type dengan mengisikan nilai pada parameter text

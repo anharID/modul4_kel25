@@ -17,5 +17,4 @@ namespace modul4_kel25
             return c;
         }
     }
-
 }
